@@ -15,7 +15,7 @@
   "devDependencies": {
     "standard": "~11.0.1",
     "tape": "~4.9.0",
-    "win-version-info": "~1.0.1"
+    "win-version-info": "~2.0.0"
   },
   "keywords": [
     "assembly",
