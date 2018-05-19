@@ -1,0 +1,34 @@
+{
+  "name": "win-dummy-exe",
+  "version": "0.0.0",
+  "description": "Generate a dummy Windows exe with .NET",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "scripts": {
+    "test": "standard && node test"
+  },
+  "dependencies": {
+    "assembly-source": "~0.1.0",
+    "tmpgen": "~1.1.1",
+    "win-find-jscript-compiler": "~1.0.0"
+  },
+  "devDependencies": {
+    "standard": "~11.0.1",
+    "tape": "~4.9.0",
+    "win-version-info": "~1.0.1"
+  },
+  "keywords": [
+    "assembly",
+    "dotnet",
+    "exe",
+    "jsc",
+    "jscript",
+    "pe"
+  ],
+  "engines": {
+    "node": ">=6"
+  },
+  "repository": "vweevers/win-dummy-exe",
+  "bugs": "https://github.com/vweevers/win-dummy-exe/issues",
+  "homepage": "https://github.com/vweevers/win-dummy-exe"
+}
