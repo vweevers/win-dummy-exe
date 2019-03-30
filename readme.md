@@ -6,7 +6,7 @@
 [![node](https://img.shields.io/node/v/win-dummy-exe.svg?style=flat-square)](https://www.npmjs.org/package/win-dummy-exe)
 [![AppVeyor build status](https://img.shields.io/appveyor/ci/vweevers/win-dummy-exe.svg?style=flat-square&label=appveyor)](https://ci.appveyor.com/project/vweevers/win-dummy-exe)
 [![Dependency status](https://img.shields.io/david/vweevers/win-dummy-exe.svg?style=flat-square)](https://david-dm.org/vweevers/win-dummy-exe)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com) [![Greenkeeper badge](https://badges.greenkeeper.io/vweevers/win-dummy-exe.svg)](https://greenkeeper.io/)
 
 ## usage
 
